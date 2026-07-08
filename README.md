@@ -1,18 +1,78 @@
-# 💫 About Me:
-🛠️ I’m currently working on:<br>Building small web apps with Flask, .NET, C#, and experimenting with JavaScript<br><br>🤝 I’m looking to collaborate on:<br>Simple backend projects, API integrations, and small full-stack ideas<br><br>🙌 I’m looking for help with:<br>Improving my .NET skills and writing cleaner, scalable code<br><br>🌱 I’m currently learning:<br>C#, .NET MVC, JavaScript, HTML, CSS, and keeping my Python knowledge fresh<br><br>💬 Ask me about:<br>Basic backend setups, Flask apps, and beginner-friendly full-stack structures<br><br>⚡ Fun fact:<br>90% kod yazmak, 10% “neden çalışmıyor bu” diye düşünmek 😄
+<div align="center">
 
+# Hi, I'm Emir
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emirkroglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-koroglu/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@curryoglu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:korogluemir32@gmail.com) 
+### Software Developer
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmirKoroglu3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EmirKoroglu3&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirKoroglu3&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building scalable web applications with .NET, React, and modern development practices.
+
+<p>
+  <a href="https://emirkoroglu-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emir-koroglu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:korogluemir32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmirKoroglu3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build modern full-stack web applications with a strong focus on clean architecture, scalable backend systems, and intuitive user experiences.
+
+My primary stack is .NET and React, and I enjoy designing RESTful APIs, optimizing application performance, and developing software that solves real-world problems.
+
+---
+
+## Featured Projects
+
+### Enterprise Operations Platform (EOP)
+
+Enterprise-grade meeting and workflow management platform built with ASP.NET Core, React, PostgreSQL, Docker, Redis, and Clean Architecture.
+
+### FitLog
+
+Full-stack fitness tracking application with authentication, workout planning, nutrition tracking, and responsive design.
+
+### Portfolio
+
+Personal portfolio website built with Next.js and Tailwind CSS.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,docker,postgres,mysql,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EmirKoroglu3&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirKoroglu3&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EmirKoroglu3&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmirKoroglu3&theme=github-compact&hide_border=true" />
+</p>
