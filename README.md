@@ -7,7 +7,7 @@
 Building scalable web applications with .NET and React.
 
 <p>
-  <a href="https://emirkoroglu-portfolio.vercel.app">
+  <a href="https://emirkoroglu.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/emir-koroglu/">
