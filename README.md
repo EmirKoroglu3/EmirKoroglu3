@@ -4,7 +4,7 @@
 
 ### Software Developer
 
-Building scalable web applications with .NET, React, and modern development practices.
+Building scalable web applications with .NET and React.
 
 <p>
   <a href="https://emirkoroglu-portfolio.vercel.app">
@@ -24,25 +24,25 @@ Building scalable web applications with .NET, React, and modern development prac
 
 ## About
 
-I build modern full-stack web applications with a strong focus on clean architecture, scalable backend systems, and intuitive user experiences.
+I'm a Software Developer passionate about building modern, scalable web applications with the .NET ecosystem and React.
 
-My primary stack is .NET and React, and I enjoy designing RESTful APIs, optimizing application performance, and developing software that solves real-world problems.
+I enjoy designing clean architectures, developing RESTful APIs, and creating software that solves real-world problems while delivering a reliable user experience.
 
 ---
 
 ## Featured Projects
 
-### Enterprise Operations Platform (EOP)
+### [Enterprise Operations Platform (EOP)](https://github.com/EmirKoroglu3/EOP)
 
 Enterprise-grade meeting and workflow management platform built with ASP.NET Core, React, PostgreSQL, Docker, Redis, and Clean Architecture.
 
-### FitLog
+### [FitLog](https://github.com/EmirKoroglu3/FitLog)
 
-Full-stack fitness tracking application with authentication, workout planning, nutrition tracking, and responsive design.
+Full-stack fitness tracking application featuring authentication, workout planning, nutrition tracking, and responsive design.
 
-### Portfolio
+### [Portfolio](https://emirkoroglu-portfolio.vercel.app)
 
-Personal portfolio website built with Next.js and Tailwind CSS.
+Personal portfolio built with Next.js and Tailwind CSS.
 
 ---
 
@@ -58,21 +58,8 @@ Personal portfolio website built with Next.js and Tailwind CSS.
 
 ---
 
-## GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EmirKoroglu3&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirKoroglu3&layout=compact&theme=transparent&hide_border=true" />
-</p>
+*"Building software with clean architecture, scalable solutions, and continuous improvement."*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EmirKoroglu3&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmirKoroglu3&theme=github-compact&hide_border=true" />
-</p>
+</div>
